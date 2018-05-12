@@ -1,0 +1,31 @@
+_repo: Birds-in-the-Bush_28019
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28019-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Torrey, Bradford
+    birthdate: 1843
+    deathdate: 1912
+    gutenberg_agent_id: '3667'
+    url: http://www.gutenberg.org/2009/agents/3667
+description: ''
+gutenberg_bookshelf: Animals-Wild-Birds
+gutenberg_issued: '2009-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds'
+- !lcc 'QL'
+tableOfContents: On Boston Common -- Bird-songs -- Character in feathers -- In the
+  White mountains -- Phillida and Coridon -- Scraping acquaintance -- Minor songsters
+  -- Winter birds about Boston -- A bird-lover's April -- An Owl's Head holiday --
+  A month's music.
+title: Birds in the Bush
+url: http://www.gutenberg.org/ebooks/28019
